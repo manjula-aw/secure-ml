@@ -41,7 +41,7 @@ Exceptions to this ML Security Policy may be granted in certain circumstances, s
 - The exception request should include a detailed justification for the proposed deviation from the policy, along with supporting evidence, risk assessment, and mitigating controls, if applicable.
 
 ## Review and Approval Process
-- The designated authority responsible for reviewing exceptions (DIS-ITE-Central Security) will assess the request in consultation with relevant stakeholders, including the ML solutoin owner, development team, legal department, and data privacy officers.
+- The designated authority responsible for reviewing exceptions will assess the request in consultation with relevant stakeholders, including the ML solution owner, development team, legal department, and data privacy officers.
 - The review process will consider the potential impact on security, privacy, compliance, and the organization's risk tolerance.
 - The designated authority will communicate the decision regarding the exception request to the requesting party in a timely manner.
 
